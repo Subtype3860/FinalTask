@@ -1,0 +1,13 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/bin/Debug/net7.0
+/obj
+/.vs/Task8.6.4
+*.csproj
+/.vs/FinalTask/FileContentIndex
+/.vs/FinalTask/v17
+/.idea/.idea.FinalTask.dir/.idea
+/.vs
+/bin/Debug/net6.0
